@@ -5,7 +5,7 @@ import time
 from sklearn.model_selection import train_test_split
 import base64
 
-def main()
+def main():
 	st.write("Hello, upload CSV dataset")
 	st.write("---------------------------------------")
 
